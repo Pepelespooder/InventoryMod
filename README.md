@@ -4,7 +4,7 @@
 Version 1.20.1+
 **************************
 
-This mod is barebones Debug it contains no toml or versioning to be used on multiple versions
+This mod is barebones Debug it contains no toml or versioning to be used on multiple versions.
 Creates a File inside config that contains whatever your inventory contains modname:blockname format 
 
 
