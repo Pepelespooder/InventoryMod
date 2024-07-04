@@ -1,7 +1,0 @@
-minecraft:birch_sapling
-minecraft:dandelion
-minecraft:azure_bluet
-minecraft:poppy
-minecraft:cornflower
-minecraft:wheat_seeds
-minecraft:oxeye_daisy
