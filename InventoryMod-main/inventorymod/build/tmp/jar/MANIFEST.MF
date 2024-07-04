@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: inventorymod
+Specification-Vendor: PepeLeSpooder
+Specification-Version: 1
+Implementation-Title: inventorymod
+Implementation-Version: 1
+Implementation-Vendor: PepeLeSpooder
+Implementation-Timestamp: 2024-07-04T18:18:24-0400
+

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "Pepe.inventorymod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "inventorymod.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
