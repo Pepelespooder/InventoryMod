@@ -3,14 +3,17 @@
 
 Version 1.20.1+
 **************************
+Reinstanced the mod to include 
 
-This mod is barebones Debug it contains no toml or versioning to be used on multiple versions.
-Creates a File inside config that contains whatever your inventory contains modname:blockname format 
+Creates a Folder inside the config named inventorymod That contains the files jei_page.txt and inventory.txt Which contain the itemstack information fomratted like 
+Modname:blockname
 
 
 
 Instructions for Usage  
 **********************************
 
-Hit F7  Check config Folder for Inventory_item_names. Repeat... File will be updated every time you press F7 . File will Be in format Modname:blockname 
+Hit F7  Check config Folder for config/Inventorymod/inventory.txt Repeat... File will be updated every time you press F7 . File will Be in format Modname:blockname 
+
+Hit Keypad * --(Multiply). Posts whole shown page of JEI to config/inventorymod/jei_page.txt. Repeat key press as needed to output again
 
