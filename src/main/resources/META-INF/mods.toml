@@ -1,0 +1,21 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "MIT"
+[[mods]]
+modId = "inventorymod"
+version = "1.0"
+displayName = "Inventory Export Mod"
+authors = "PepeLeSpooder"
+description = '''This mod allows players to export their inventory and JEI page to a file with keybindings.'''
+[[dependencies.inventorymod]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.inventorymod]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.2,1.19)"
+ordering = "NONE"
+side = "BOTH"
