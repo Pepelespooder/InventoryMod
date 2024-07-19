@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: InventoryMod
+Implementation-Version: 1.0
+Specification-Vendor: 
+Specification-Title: inventorymod
+Implementation-Timestamp: 2024-07-19T14:50:36-0400
+Specification-Version: 1
+Implementation-Vendor: 
+
